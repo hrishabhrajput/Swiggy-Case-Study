@@ -11,7 +11,9 @@ The dataset used in this project was obtained from keggle website. It includes c
 The primary objectives of this project are to find the answers of the below questions:
 
 01 HOW MANY RESTAURANTS HAVE A RATING GREATER THAN 4.5?
+
 02 WHICH IS THE TOP CITY WITH THE HIGHEST NUMBER OF RESTAURANTS?
+
 03 HOW MANY RESTAURANTS SELL( HAVE WORD "PIZZA" IN THEIR NAME)?
 04 WHAT IS THE MOST COMMON CUISINE AMONG THE RESTAURANTS ?
 05 WHAT IS THE AVERAGE RATING OF RESTAURANTS IN EACH CITY?
